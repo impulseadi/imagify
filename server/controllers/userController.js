@@ -1,9 +1,10 @@
 import userModel from "../models/userModel.js";
 //import bcrypt from 'bcrypt'
+import bcrypt from "bcryptjs";
 import jwt from 'jsonwebtoken'
 
 
-const bcrypt = require("bcryptjs");
+//const bcrypt = require("bcryptjs");
 
 
 const registerUser = async (req, res) => {
