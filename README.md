@@ -55,7 +55,7 @@ cd client
 npm install
 ```
 ### 3️⃣ Set Up Environment Variables
-Create a `.env` file in the **server** directory and add:
+Create a `.env` file in the **client** directory and add:
 ```
 VITE_BACKEND_URL = 'http://localhost:4000'
 ```
