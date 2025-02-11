@@ -57,9 +57,7 @@ npm install
 ### 3️⃣ Set Up Environment Variables
 Create a `.env` file in the **server** directory and add:
 ```
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-CLIPDROP_API_KEY=your_api_key
+VITE_BACKEND_URL = 'http://localhost:4000'
 ```
 ### 4️⃣ Start the Application
 #### Backend
