@@ -20,7 +20,9 @@ Imagify is a **Full Stack AI SaaS Application** that allows users to generate AI
 - 🚀 **Deployment**: Hosted on Netlify (frontend) and Render (backend).
 
 ## 📸 Screenshots
-![Screenshot 2025-02-11 185017](https://github.com/user-attachments/assets/e083f3eb-83b9-4ca1-a847-6db646de49cb)
+
+![Home Page]![Screenshot 2025-02-11 185017](https://github.com/user-attachments/assets/e083f3eb-83b9-4ca1-a847-6db646de49cb)
+
 
 
 ## 🚀 Getting Started
