@@ -1,5 +1,7 @@
 # Imagify - AI-Powered Text-to-Image Generator
 
+LIVE-LINK-https://imagify-frontend-gnsc.onrender.com/
+
 ## 🌟 Overview
 Imagify is a **Full Stack AI SaaS Application** that allows users to generate AI-powered images from text prompts. It features a **credit-based system** for image generation and includes **user authentication** for secure access.
 
