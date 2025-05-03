@@ -16,7 +16,7 @@ import { stepsData } from '../assets/assets'
         <div  className="flex items-center gap-4 p-5 px-8 
         bg-white/20 shadow-md border cursor-pointer 
         hover:scale-[1.02] transition-all duration-300 rounded-lg" key={index}>
-            <img width={40} src={item.icon} alt="" />
+            <img width={40} src={item.icon} alt="" loading="lazy" />
             <div>
                 <h2 className="text-xl font-medium">{item.title}</h2>
                 <p className="text-gray-500">{item.description}</p>
@@ -29,5 +29,5 @@ import { stepsData } from '../assets/assets'
    )
  }
  
- export default Steps
+export default React.memo(Steps)
  
