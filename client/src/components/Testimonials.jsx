@@ -39,6 +39,6 @@ const Testimonials = React.memo(() => {
         </div>      
     </motion.div>
   )
-}
+})
 
 export default Testimonials
